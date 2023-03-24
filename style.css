@@ -1,0 +1,51 @@
+/*D1C6AD
+942911
+5C6D70
+07004D
+28112B*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #D1C6AD;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: #5C6D70;
+    height: 1.7rem;
+    box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+}
+
+img:hover {
+    border-radius: 100%;
+    text-align: center;
+    width: 35rem ;
+    height: 35rem ;
+    border-radius: 100% ;
+    box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+}
+
+img {
+    border-radius: 100%;
+    text-align: center;
+    width: 30rem ;
+    height: 30rem ;
+    border-radius: 100% ;
+    box-shadow: 0 0 20px 10px rgb(0,0,0,0.2);
+}
+#logo {
+    color:white;
+    padding: .5rem 1.5rem 1.5rem 1.5rem;
+}
+.image-container {
+    text-align: center;
+}
+
+/*.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
